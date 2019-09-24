@@ -1,0 +1,16 @@
+{
+  "name": "fetch_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joemags <joe@joemags.co.zw> (https://joemags.co.zw)",
+  "license": "ISC",
+  "dependencies": {
+    "eml-format": "^0.5.0"
+  }
+}
