@@ -11,6 +11,8 @@
   "author": "Joemags <joe@joemags.co.zw> (https://joemags.co.zw)",
   "license": "ISC",
   "dependencies": {
+    "convert-array-to-csv": "^1.0.9",
+    "emails-in-string": "^2.0.0",
     "eml-format": "^0.5.0"
   }
 }
